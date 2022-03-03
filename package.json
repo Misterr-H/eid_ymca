@@ -1,0 +1,23 @@
+{
+  "name": "static_qr_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
+    "socket.io": "^4.4.0"
+  }
+}
