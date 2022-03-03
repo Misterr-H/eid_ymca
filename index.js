@@ -117,7 +117,7 @@ async function login(username, password) {
 
             //     }
             // });
-            if(username==="20001003051" && password==="$Hs913271$") {
+            if(username==="20001003051" && password==="pass_ymca") {
                 resolve(true);
             }
             else {
